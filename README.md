@@ -1,2 +1,3 @@
 # PCExecutable
-This repo contains the PC excutable files. Please download the whole repo to run the application.
+Please download the latest executable files from:
+https://github.com/SingleTact/NETInterface/releases
